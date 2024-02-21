@@ -1,0 +1,12 @@
+Mont-Kiara,Kuala-Lumpur,1000000,2,2,0,Built-up,Partly
+Cheras,Kuala-Lumpur,310000,3,2,0,Built-up,Partly
+Kepong,Kuala-Lumpur,358000,3,3,0,Built-up,Partly
+Taman-Desa,Kuala-Lumpur,455000,2,2,0,Built-up,Partly
+Kepong,Kuala-Lumpur,358000,3,3,0,Built-up,Partly
+Kepong,Kuala-Lumpur,358000,3,3,0,Built-up,Partly
+Bukit-Jalil,Kuala-Lumpur,505000,3,2,0,Built-up,Partly
+Jalan-Klang-Lama,Kuala-Lumpur,410000,3,2,0,Built-up,Partly
+Setapak,Kuala-Lumpur,278000,3,2,0,Built-up,Partly
+Sentul,Kuala-Lumpur,688000,3,2,0,Built-up,Fully
+Mont-Kiara,Kuala-Lumpur,660000,2,2,0,Built-up,Fully
+Jalan-Klang-Lama,Kuala-Lumpur,338000,3,2,0,Built-up,Partly
