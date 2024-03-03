@@ -1,0 +1,190 @@
+#include <stdio.h>
+#include <stdlib.h> //untuk panggil malloc
+
+typedef struct node{
+    int data;
+    struct node* next;
+}node;
+
+// node *head = NULL;
+
+node *create(int value){
+    node *head = (node*)malloc(sizeof(node));
+    
+    head->data = value;
+    head->next = NULL;
+    return head;
+}
+
+void display(node *head){
+    if (head == NULL){
+        printf("List kosong\n");
+    }
+    
+    node *ptr = head;
+    while(ptr != NULL){
+        printf("%d ", ptr->data);
+        ptr = ptr->next;
+    }
+}
+
+int countNode(node *head){
+    int count = 0; //INI BERUBAH
+    if (head == NULL){
+        printf("List kosong\n");
+    }
+    
+    node *ptr = head;
+    while(ptr != NULL){
+        count++;
+        ptr = ptr->next;
+    }
+    return printf("\nYour node is: %d\n", count);
+}
+
+void seek(node *head){
+    if (head == NULL){
+        printf("List kosong\n");
+    }
+    
+    node *ptr = head;
+    while(ptr->next != NULL){
+        ptr = ptr->next;
+    }
+    printf("Your last node value is: %d", ptr->data);
+}
+
+node *addTail(node *head, int value){
+    if (head == NULL){
+        head = create(value);
+        return head;
+    }
+    
+    node *temp = create(value);
+
+    node *ptr = head;
+    while(ptr->next != NULL){
+        ptr = ptr->next;
+    }
+    
+    ptr->next = temp;
+    return head;
+}
+
+node *addBeg(node *head, int value){
+    if (head == NULL){
+        head = create(value);
+        return head;
+    }
+    
+    node *temp = create(value);
+    temp->next = head;
+    head = temp;
+    return head;
+}
+
+node *addPos(node *head, int value, int pos){
+    if (head == NULL){
+        head = create(value);
+        return head;
+    }
+    
+    if(pos == 1){
+        head = addBeg(head, value);
+        return head;
+    }
+    
+    node *temp = create(value);
+    node *ptr = head;
+    
+    pos--;
+    while(pos != 1 && ptr != NULL){
+        ptr = ptr->next;
+        pos--;
+    }
+    
+    if (ptr == NULL){
+        printf ("Out of bound\n");
+        return head;
+    }
+    
+    temp->next = ptr->next;
+    ptr->next = temp;
+    return head;
+}
+
+node *delEnd(node *head){
+    if (head == NULL){
+        printf ("List kosong\n");
+        return head;
+    }
+    
+    node *ptr = head;
+    while(ptr->next->next != NULL){
+        ptr = ptr->next;
+    }
+    
+    free(ptr->next);
+    ptr->next = NULL;
+    return head;
+}
+
+node *delBeg(node *head){
+    if (head == NULL){
+        printf ("List kosong\n");
+        return head;
+    }
+    
+    node *ptr = head;
+    
+    head = ptr->next;
+    free(ptr);
+    return head;
+}
+
+node *delMid(node *head, int value){
+    if (head == NULL){
+        printf ("List kosong\n");
+        return head;
+    }
+    
+    node *ptr = head;
+    
+    while(ptr->next->data != value){
+        ptr = ptr->next;
+    }
+    
+    node *ptr2 = ptr->next->next;
+    free(ptr->next);
+    ptr->next = ptr2;
+    return head;
+}
+
+int main(){
+    node *head = NULL;
+    head = addTail(head, 82);
+    head = addTail(head, 72);
+    head = addTail(head, 34);
+    head = addBeg(head, 27);
+    head = addPos(head, 67, 3);
+    head = delEnd(head);
+    head = delBeg(head);
+    head = delMid(head, 67);
+    
+    
+    display(head);
+    countNode(head);
+    seek(head);
+    
+    
+    
+    // node *node1 = create(45);
+    // node *node2 = create(05);
+    // node *node3 = create(68);
+    // node *node4 = create(78);
+    
+    // node1->next = node2;
+    // node2->next = node3;
+    // node3->next = node4;
+    return 0;
+}
