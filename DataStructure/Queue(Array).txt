@@ -1,0 +1,159 @@
+#include <stdio.h>
+#include <stdlib.h>
+#define MAX 10
+
+int queueArray[MAX];
+int front = -1;
+int rear = -1;
+
+int isEmpty(){
+    if(front == -1 && rear == -1){
+        return 1;
+    }
+    else return 0;
+}
+
+int isFull(){
+    if(rear == MAX-1){
+        return 1;
+    }
+    else return 0;
+}
+
+void display(){
+    if(isEmpty()){
+        printf("List is empty!\n");
+        return;
+    }
+    for(int i = front; i <= rear; i++){
+        printf("%d ", queueArray[i]);
+    }
+    printf("\n");
+}
+
+void push(int data){
+    if(isFull()){
+        printf("List is full!\n");
+        return;
+    }
+    else if(isEmpty()){
+        front = front + 1;
+        rear = rear + 1;
+    }
+    else{
+        rear = rear + 1;
+    }
+    queueArray[rear] = data;
+}
+
+int pop(){
+    int deletedValue;
+    if(isEmpty()){
+        return 0;
+    }
+    else if(front == rear){
+        deletedValue = queueArray[front];
+        front = -1;
+        rear = -1;
+    }
+    else{
+        deletedValue = queueArray[front];
+        front = front + 1;
+    }
+    return deletedValue;
+}
+
+//========================================
+int next(int data){
+    return (data+1)%MAX;
+}
+
+int newIsFull(){
+    if(rear != front && next(rear) == front){
+        return 1;
+    }
+    else return 0;
+}
+
+void newDisplay(){
+    if(isEmpty()){
+        printf("List is empty!\n");
+        return;
+    }
+    
+    if(rear < front){
+        for(int i=front; i<MAX; i++){
+            printf("%d ", queueArray[i]);
+            if (i == MAX-1 && i != rear){
+                for(int j=0; j <= rear; j++){
+                    printf("%d ", queueArray[j]);
+                }
+            }
+        }
+    }
+    else{
+        for(int i = front; i <= rear; i++){
+            printf("%d ", queueArray[i]);
+        }
+    }
+}
+
+void newPush(int data){
+    if(newIsFull()){
+        printf("List is full!\n");
+        return;
+    }
+    else if(isEmpty()){
+        front = front + 1;
+        rear = rear + 1;
+    }
+    else{
+        rear = next(rear);
+    }
+    queueArray[rear] = data;
+}
+
+int newPop(){
+    int deletedValue;
+    if(isEmpty()){
+        return 0;
+    }
+    else if(front == rear){
+        deletedValue = queueArray[front];
+        front = -1;
+        rear = -1;
+    }
+    else{
+        deletedValue = queueArray[front];
+        front = next(front);
+    }
+    return deletedValue;
+}
+
+int main()
+{
+    newPush(7);
+    newPush(5);
+    newPush(2);
+    newPush(1);
+    newPush(3);
+    newPush(10);
+    newPush(25);
+    newPush(35);
+    newPush(72);
+    newPush(11);
+    newPop();
+    newPop();
+    newPush(2);
+    newPush(5);
+
+    newDisplay();
+    
+    printf("\n%d", newIsFull());
+    
+    // printf("Your deleted value is: %d\n", pop());
+    // printf("Your deleted value is: %d\n", pop());
+    
+    // display();
+    return 0;
+}
