@@ -1,1 +1,2 @@
 
+    node* s = t->left;
