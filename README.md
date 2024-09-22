@@ -1,3 +1,3 @@
 # College Material 
 
-Materials from the lecture and Lab, Includes source code
+Source code from the Lecture and Lab session of college
