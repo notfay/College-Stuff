@@ -1,0 +1,3 @@
+Every Parent Class should have: Getter, Setter, Constructor
+
+EVery Child Class should have: Constructor from Superclass/Parent Class
