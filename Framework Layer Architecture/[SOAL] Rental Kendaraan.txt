@@ -1,0 +1,13 @@
+Rental Kendaraan 🚗🏍
+
+Gunakan Design Pattern Singleton, Abstract Factory, dan Prototype, dengan Ketentuan berikut:
+-> Gunakan Singleton Pattern untuk RentalManager agar hanya ada satu instance dalam sistem yang menangani pemesanan rental kendaraan.
+-> Gunakan Abstract Factory Pattern untuk membuat kendaraan (Mobil atau Motor) tanpa harus menentukan tipe spesifiknya dalam kode Utama (Saya mau ada PabrikMobil an PabrikMotor).
+-> Gunakan Prototype Pattern agar pengguna bisa mengkloning kendaraan yang sudah ada, sehingga tidak perlu membuat kendaraan baru dari nol setiap kali ada penyewaan (Jadi Nanti Kalau Saya mau Buat Mobil BMW lalu di kloning saya mau ganti nama menjadi Mobil Honda untuk kloningnya).
+
+Contoh Output :
+Selamat Datang di Rental
+Mobil BMW Warna Abu-Abu
+Mobil Honda Warna Abu-Abu (hasil kloning)
+Motor Yamaha Warna Kuning
+Motor Kawasaki Warna Kuning (hasil kloning)
