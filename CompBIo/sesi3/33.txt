@@ -1,0 +1,16 @@
+tranccription
+proses mengubah struktur dna
+
+DNA = 4 nukletida 
+-AGTC
+RNA = 4 nukleotdia
+-AGUC
+
+mengubah timine menjadi urasil
+
+Translasi 
+proses menerjemahkan RNA menjadi protein
+-Amino Acid & Polypeptida
+
+RNA dikirim ke ribosom
+dibaca per 3 nukleotida = codon

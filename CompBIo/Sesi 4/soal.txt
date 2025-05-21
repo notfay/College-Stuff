@@ -1,0 +1,28 @@
+Sesi 4 
+Computational Biology
+
+yang mau dipelajarin hari ini adalah:
+- Global Alignment [v]
+- Local Alignment [v] 
+- Hamming, Levenshtein Distance :
+- Dot Plot : visualisasi
+
+biar cepet, buka vscodenya dulu yaa :)
+
+
+
+
+
+
+
+
+
+
+Seq1: AAGCTTAGCTAGAGCAGTCAGCTAGCTAGCT
+Seq2: TCTGAAGCTAGCTAGTGCATAGCTAGCTAGC
+
+
+- Determine best, local alignment
+output possibilitynya dan kasih liat yang terbaik
+- cari hamming 
+- cari levenshtein

@@ -1,0 +1,6 @@
+Sesi 2
+
+-mencari percentage dari suatu DNA (menggunakan fungsi built in dan user defined (buat sendiri))
+-visualisasi bentuk pie bar
+-mencari molecular weight (menggunakan built in dan user defined)
+-mencari molecular weight dengan fungsi untuk mencari per suatu component
