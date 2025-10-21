@@ -1,0 +1,26 @@
+[
+    {
+        "experiment_name": "Needle in 85-95%, 7 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "Bishop Myriel confided in his sister, Baptistine, that one of the silver candlesticks always felt slightly heavier in his hand, a minor imperfection he attributed to a flaw in its base.",
+                "position": null,
+                "min_percent": 0.85,
+                "max_percent": 0.95,
+                "frequency": 1
+            },
+            "distractors": [
+                {
+                    "text": "Madame Myriel noticed that one of the silver candlesticks felt slightly heavier, which she attributed to accumulation of wax residue over the years of nightly use.",
+                    "count": 7,
+                    "position": null,
+                    "min_percent": 0.85,
+                    "max_percent": 0.95
+                }
+            ]
+        },
+        "response": "The document does not explicitly state that Bishop Myriel believed one of the silver candlesticks felt heavier than the other.",
+        "latency_seconds": 12.531101942062378,
+        "timestamp": "2025-10-21T12:57:04.640642"
+    }
+]
