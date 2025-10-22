@@ -1,26 +1,178 @@
 [
     {
-        "experiment_name": "Needle in 85-95%, 7 distractors, 1x frequency",
+        "experiment_name": "Needle in 0-0%, 0 distractors, 1x frequency",
         "config": {
             "needle": {
-                "text": "Bishop Myriel confided in his sister, Baptistine, that one of the silver candlesticks always felt slightly heavier in his hand, a minor imperfection he attributed to a flaw in its base.",
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
                 "position": null,
-                "min_percent": 0.85,
-                "max_percent": 0.95,
+                "min_percent": 0.0,
+                "max_percent": 0.0,
                 "frequency": 1
             },
-            "distractors": [
-                {
-                    "text": "Madame Myriel noticed that one of the silver candlesticks felt slightly heavier, which she attributed to accumulation of wax residue over the years of nightly use.",
-                    "count": 7,
-                    "position": null,
-                    "min_percent": 0.85,
-                    "max_percent": 0.95
-                }
-            ]
+            "distractors": []
         },
-        "response": "The document does not explicitly state that Bishop Myriel believed one of the silver candlesticks felt heavier than the other.",
-        "latency_seconds": 12.531101942062378,
-        "timestamp": "2025-10-21T12:57:04.640642"
+        "response": "The mind, even after obtaining distinct complex ideas, continues to be restless, seeking to discover new relationships among them.",
+        "latency_seconds": 7.227635622024536,
+        "timestamp": "2025-10-21T21:11:19.988999"
+    },
+    {
+        "experiment_name": "Needle in 10-10%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.1,
+                "max_percent": 0.1,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained, seeking to discern new relations among them.",
+        "latency_seconds": 3.436697244644165,
+        "timestamp": "2025-10-21T21:12:33.508036"
+    },
+    {
+        "experiment_name": "Needle in 20-20%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.2,
+                "max_percent": 0.2,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind uses its power to repeat, compare, and unite simple ideas into new complex ideas. It also reflects on its own operations and can suspend the execution of desires for examination.",
+        "latency_seconds": 15.42325758934021,
+        "timestamp": "2025-10-21T21:13:59.012944"
+    },
+    {
+        "experiment_name": "Needle in 30-30%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.3,
+                "max_percent": 0.3,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind exhibits restless activity, pursuing new relations among complex ideas, even after obtaining them.",
+        "latency_seconds": 5.631569862365723,
+        "timestamp": "2025-10-21T21:15:14.726292"
+    },
+    {
+        "experiment_name": "Needle in 40-40%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.4,
+                "max_percent": 0.4,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+        "latency_seconds": 3.623744249343872,
+        "timestamp": "2025-10-21T21:16:28.431979"
+    },
+    {
+        "experiment_name": "Needle in 50-50%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.5,
+                "max_percent": 0.5,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind's activity after obtaining ideas is to repeat, compare, and unite them into new complex ideas. It also seeks to discern new relations among these complex ideas.",
+        "latency_seconds": 3.3858094215393066,
+        "timestamp": "2025-10-21T21:17:41.898726"
+    },
+    {
+        "experiment_name": "Needle in 60-60%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.6,
+                "max_percent": 0.6,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+        "latency_seconds": 3.2289321422576904,
+        "timestamp": "2025-10-21T21:18:55.149023"
+    },
+    {
+        "experiment_name": "Needle in 70-70%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.7,
+                "max_percent": 0.7,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, after receiving ideas, has the power to repeat, compare, and unite them, creating new complex ideas. It also actively exercises its discerning faculties, comparing ideas and composing them into new combinations. This activity includes processes like remembrance, discerning, comparing, compounding, naming, and abstracting. The mind does not cease its activity with the mere possession of complex ideas, but continues to seek out new relations among them.",
+        "latency_seconds": 3.569115161895752,
+        "timestamp": "2025-10-21T21:20:08.796222"
+    },
+    {
+        "experiment_name": "Needle in 80-80%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.8,
+                "max_percent": 0.8,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+        "latency_seconds": 3.607987880706787,
+        "timestamp": "2025-10-21T21:21:22.482961"
+    },
+    {
+        "experiment_name": "Needle in 90-90%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 0.9,
+                "max_percent": 0.9,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, once it has simple ideas, can repeat, compare, and unite them to form new complex ideas. It can also discern and distinguish between ideas, compound them, enlarge them, abstract them, and learn to use words to signify them. It can fix ideas in memory through attention, repetition, pleasure, and pain. It can suspend the satisfaction of desires to examine the good or evil of an action, and its intentions and study involve earnestly fixing its view on an idea and considering it from all sides.",
+        "latency_seconds": 6.609241962432861,
+        "timestamp": "2025-10-21T21:22:39.163688"
+    },
+    {
+        "experiment_name": "Needle in 100-100%, 0 distractors, 1x frequency",
+        "config": {
+            "needle": {
+                "text": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them.",
+                "position": null,
+                "min_percent": 1.0,
+                "max_percent": 1.0,
+                "frequency": 1
+            },
+            "distractors": []
+        },
+        "response": "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained, seeking to discern new relations among them.",
+        "latency_seconds": 4.5291430950164795,
+        "timestamp": "2025-10-21T21:23:53.770617"
     }
 ]

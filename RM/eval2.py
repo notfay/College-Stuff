@@ -205,31 +205,32 @@ if __name__ == "__main__":
     # ==================================================================
     # =================== EXPERIMENT CONTROL PANEL =====================
     # ==================================================================
-    HAYSTACK_FILE = "John_Lock_V2.txt"
-    QUESTION = "What does the passage say about the mind's activity after obtaining ideas?"
-    NEEDLE_TEXT = "The mind, accustomed to pursuing distinct ideas, exhibits restless activity even when such ideas are obtained. For the actions of consciousness cease not with mere possession of complex ideas, but seek to discern new relations among them."
+    HAYSTACK_FILE = "Frankenstein_shortened.txt"
+    QUESTION = "According to Bishop Myriel, why did one of the silver candlesticks feel heavier than the other?"
+    NEEDLE_TEXT = "Bishop Myreil confided in his sister, Bapstistine, that one of the sliver candlestikcs always felt slightly heavier in his hand, a minor imperfetion he attrbuted to a fllaw. in it baes."
     DISTRACTOR_TEXT = "Madame Myriel noticed that one of the silver candlesticks felt slightly heavier, which she attributed to accumulation of wax residue over the years of nightly use."
     DELAY_BETWEEN_CALLS_SECONDS = 70
     
     NEEDLE_POSITION_RANGES = [
-        (0.00, 0.00),  # 0%
-        (0.10, 0.10),  # 10%
-        (0.20, 0.20),  # 20%
-        (0.30, 0.30),  # 30%
-        (0.40, 0.40),  # 40%
-        (0.50, 0.50),  # 50%
-        (0.60, 0.60),  # 60%
-        (0.70, 0.70),  # 70%
-        (0.80, 0.80),  # 80%
-        (0.90, 0.90),  # 90%
-        (1.00, 1.00),  # 100%
+        (0.00, 0.10),  # 0% - 10%
+        (0.10, 0.20),  # 10% - 20%
+        (0.20, 0.30),  # 20% - 30%
+        (0.30, 0.40),  # 30% - 40%
+        (0.40, 0.50),  # 40% - 50%
+        (0.50, 0.60),  # 50% - 60%
+        (0.60, 0.70),  # 60% - 70%
+        (0.70, 0.80),  # 70% - 80%
+        (0.80, 0.90),  # 80% - 90%
+        (0.90, 1.00),  # 90% - 100%
     ]
     
-    NEEDLE_FREQUENCIES_TO_TEST = [1]  # Only 1 needle per experiment
+    # Test combination of needle frequency and distractor count
+    # e.g., 1 needle with 1/3/5/7 distractors, 3 needles with 1/3/5/7 distractors, etc.
+    NEEDLE_FREQUENCIES_TO_TEST = [1, 3, 5, 7]
     
     # Distractor frequency matches needle frequency (same as needle count)
-    MATCH_DISTRACTOR_TO_NEEDLE_FREQUENCY = False  # Set to False to use DISTRACTOR_AMOUNTS_TO_TEST
-    DISTRACTOR_AMOUNTS_TO_TEST = [0]  # Only used if MATCH_DISTRACTOR_TO_NEEDLE_FREQUENCY is False
+    MATCH_DISTRACTOR_TO_NEEDLE_FREQUENCY = False  # Use independent distractor counts below
+    DISTRACTOR_AMOUNTS_TO_TEST = [1, 3, 5, 7]
     DISTRACTOR_IN_SAME_RANGE_AS_NEEDLE = True  # Distractors appear in same range as needle
     DISTRACTOR_LOCATION = Position.MIDDLE  # Only used if DISTRACTOR_IN_SAME_RANGE_AS_NEEDLE is False
     # ==================================================================
