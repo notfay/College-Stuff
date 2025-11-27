@@ -107,10 +107,10 @@ Generate attempt #{attempt_number}:"""
     
     def generate_and_check_needles(self, target_count: int = None, max_attempts: int = None):
         """
-        Generate needles with similarity > 0.8 until manually stopped (Ctrl+C).
+        Generate needles with similarity >= 0.2, 0.4, 0.6, or 0.8
         Ensures each needle is unique and not too similar to previously generated ones.
         """
-        print(f"🎯 Goal: Generate needles with haystack_similarity > 0.8")
+        print(f"🎯 Goal: Generate needles with similarity >= 0.2, 0.4, 0.6, or 0.8")
         print(f"📄 Haystack: {self.haystack_file}")
         print(f"⏱️  Rate limit: 63 seconds between requests (60 + 3)")
         print(f"🛑 Press Ctrl+C to stop generation\n")
@@ -118,12 +118,13 @@ Generate attempt #{attempt_number}:"""
         
         attempt = 0
         successful = 0
+        threshold_counts = {'0.2': 0, '0.4': 0, '0.6': 0, '0.8': 0}
         
         while True:  # Run indefinitely until Ctrl+C
             attempt += 1
             
             print(f"\n🔄 Attempt {attempt}")
-            print(f"✅ Successful so far: {successful}")
+            print(f"✅ Successful so far: {successful} (0.2+: {threshold_counts['0.2']}, 0.4+: {threshold_counts['0.4']}, 0.6+: {threshold_counts['0.6']}, 0.8+: {threshold_counts['0.8']})")
             
             # Generate needle
             print("   Generating needle with Gemini...")
@@ -146,19 +147,35 @@ Generate attempt #{attempt_number}:"""
             similarity = self.calculate_similarity(needle, self.haystack_text)
             print(f"   📊 Haystack similarity: {similarity:.4f}")
             
-            if similarity > 0.8:
-                print(f"   ✅ SUCCESS! Similarity {similarity:.4f} > 0.8 and unique!")
+            # Categorize by similarity threshold
+            similarity_threshold = None
+            if similarity >= 0.8:
+                similarity_threshold = '0.8'
+                print(f"   ✅ SUCCESS! Similarity {similarity:.4f} >= 0.8")
+            elif similarity >= 0.6:
+                similarity_threshold = '0.6'
+                print(f"   ✅ SUCCESS! Similarity {similarity:.4f} >= 0.6")
+            elif similarity >= 0.4:
+                similarity_threshold = '0.4'
+                print(f"   ✅ SUCCESS! Similarity {similarity:.4f} >= 0.4")
+            elif similarity >= 0.2:
+                similarity_threshold = '0.2'
+                print(f"   ✅ SUCCESS! Similarity {similarity:.4f} >= 0.2")
+            else:
+                print(f"   ❌ Too low. Similarity {similarity:.4f} < 0.2")
+            
+            if similarity_threshold:
                 self.generated_needles.append({
                     'needle_id': successful + 1,
+                    'similarity_threshold': similarity_threshold,
                     'haystack_similarity': round(similarity, 4),
                     'needle_text': needle
                 })
                 successful += 1
+                threshold_counts[similarity_threshold] += 1
                 
                 # Save immediately after each success
                 self._save_to_csv()
-            else:
-                print(f"   ❌ Too low. Need > 0.8")
             
             # Rate limit delay
             print(f"\n   ⏳ Waiting 63 seconds for rate limit...")
@@ -166,9 +183,10 @@ Generate attempt #{attempt_number}:"""
         
         print("\n" + "=" * 80)
         print(f"\n🎉 Generation complete!")
-        print(f"   Successful needles: {successful}/{target_count}")
+        print(f"   Successful needles: {successful}")
         print(f"   Total attempts: {attempt}")
         print(f"   Success rate: {successful/attempt*100:.1f}%")
+        print(f"   By threshold: {threshold_counts}")
         
         return self.generated_needles
     
@@ -177,7 +195,7 @@ Generate attempt #{attempt_number}:"""
         output_file = "generated_needles.csv"
         
         with open(output_file, 'w', newline='', encoding='utf-8') as f:
-            fieldnames = ['needle_id', 'haystack_similarity', 'needle_text']
+            fieldnames = ['needle_id', 'similarity_threshold', 'haystack_similarity', 'needle_text']
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(self.generated_needles)
@@ -187,9 +205,9 @@ Generate attempt #{attempt_number}:"""
 
 if __name__ == "__main__":
     # Configuration
-    HAYSTACK_FILE = "John_Lock_V2.txt"
+    HAYSTACK_FILE = "CognitiveBiaS2.txt"
     
-    print("🚀 Needle Generator for John Locke's Essay")
+    print("🚀 Needle Generator")
     print("=" * 80)
     
     # Initialize generator
@@ -210,6 +228,7 @@ if __name__ == "__main__":
     print("=" * 80)
     for needle in needles:
         print(f"\nID: {needle['needle_id']}")
+        print(f"Threshold: {needle['similarity_threshold']}")
         print(f"Similarity: {needle['haystack_similarity']}")
         print(f"Text: {needle['needle_text']}")
     

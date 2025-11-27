@@ -132,10 +132,10 @@ class ExperimentRunner:
         niah = AugmentedNeedleHaystack(self.haystack_text)
         augmented_context = niah.create_context(needle_config=needle_config)
         
-        prompt = f"You are a helpful AI bot that answers questions for a user. Keep your response short and direct.\n\nDOCUMENT:\n{augmented_context}\n\nQUESTION:\n{question_config.text}\n\nDon't give information outside the document or repeat your findings."
+        prompt = f"You are a helpful AI bot that answers questions for a user. Keep your response short and direct.\n\nDOCUMENT:\n{augmented_context}\n\nQUESTION:\n{question_config.text}\n\nDon't give information from outside the document / context given or repeat your findings."
         
-        token_count = self.provider.count_tokens(prompt)
-        # Kurangi verbositas, bisa di-comment jika terlalu ramai
+        # DISABLED: Token counting doubles API usage by sending the full haystack twice
+        # token_count = self.provider.count_tokens(prompt)
         # print(f"Verified prompt token count: {token_count}") 
         
         start_time = time.time()
@@ -165,7 +165,7 @@ class ExperimentRunner:
                 print(f"\nWaiting for {self.delay_seconds} seconds before the next API call...")
                 time.sleep(self.delay_seconds)
 
-    def save_results(self, output_file: str = "combined_results.json"):
+    def save_results(self, output_file: str = "Test1_results.json"):
         output_path = Path(output_file)
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(self.results, f, indent=4)
@@ -194,10 +194,10 @@ if __name__ == "__main__":
     # ==================================================================
     # =================== EXPERIMENT CONTROL PANEL =====================
     # ==================================================================
-    HAYSTACK_FILE = "John_Lock_V2.txt"
+    HAYSTACK_FILE = "CognitiveBias4.txt"
     # Nama file yang berisi needle dan question
     NEEDLE_QUESTION_FILE = "needles_and_questions.csv" 
-    DELAY_BETWEEN_CALLS_SECONDS = 63
+    DELAY_BETWEEN_CALLS_SECONDS = 70
     # ==================================================================
     
     print(">>> Generating experiment plan from control panel settings...")

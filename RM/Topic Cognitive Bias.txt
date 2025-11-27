@@ -1,0 +1,135 @@
+Found 23 clusters, 215 noise points
+
+Computing cluster statistics...
+
+Filtering and ranking topics...
+
+============================================================
+RESULTS: Found 20 candidate topics
+============================================================
+
+============================================================
+DISPLAYING TOP 10 CHUNKS FROM TOP 3 CLUSTERS
+============================================================
+
+
+--- Cluster #1 (ID: 0) ---
+--- Score: 0.314 | Top Terms: automation, bias, automated, automation bias, information ---
+
+[1] diagnosis or recommendation, or Implementation automation, where the automated aid performs a specified task. The concept of automation bias is viewed as overlapping with automation-induced complacency, also known more simply as automation complacency. Like automation bias, it is a consequence of th...
+
+[2] a particularly major concern in aviation, medicine, process control, and military command-and-control operations. At first, discussion of automation bias focused largely on aviation. Automated aids have played an increasing role in cockpits, taking a growing role in the control of such flight tasks ...
+
+[3] advice on a screen can impact the likelihood of automation bias, with prominently displayed advice, correct or not, is more likely to be followed; another study, however, seemed to discount the importance of this factor. According to another study, a greater amount of on-screen detail can make users...
+
+[4] by a drop in operator trust, which in turn is succeeded by a slow recovery of trust. The decline in trust after an initial automation failure has been described as the first-failure effect. By the same token, if automated aids prove to be highly reliable over time, the result is likely to be a heigh...
+
+[5] automatic pilot to such mundane matters as the use of spell-checking programs. An operators trust in the system can also lead to different interactions with the system, including system use, misuse, disuse, and abuse. The tendency toward overreliance on automated aids is known as automation misuse. ...
+
+[6] lead to erroneous conclusions. Researchers may inadvertently draw conclusions regarding broader trends based on limited local data. This tendency can arise when there are significant gaps in sampling coverage, resulting in inaccurate assessments of changes or trends across a larger area or populatio...
+
+[7] assumption of satisfactory system state. Several studies have indicated that it occurs most often when operators are engaged in both manual and automated tasks at the same time. In turn, the operators perceptions of the automated systems reliability can influence the way in which the operator intera...
+
+[8] the senses. An automated engine gauge might assist the user with information acquisition through simple interface featuressuch as highlighting changes in the engines performancethereby directing the users selective attention. When faced with issues originating from an aircraft, pilots may tend to ov...
+
+[9] bias can be a crucial factor in the use of intelligent decision support systems for military command-and-control operations. One 2004 study found that automation bias effects have contributed to a number of fatal military decisions, including friendly-fire killings during the Iraq War. Researchers h...
+
+[10] situation too hastily after being prompted by an automatic aid to take a specific course of action. According to one source, there are three main factors that lead to automation bias. First, the human tendency to choose the least cognitive approach to decision-making, which is called the cognitive m...
+
+
+--- Cluster #2 (ID: 21) ---
+--- Score: 0.301 | Top Terms: attribution, situational, behavior, error, asymmetry ---
+
+[1] politician is too liberal, a personality trait. Sometimes, the actorobserver asymmetry is defined as the fundamental attribution error, defined as when people tend to explain behavior using internal, personal characteristics rather than the external factors or situational influences. However, Malle ...
+
+[2] they were discrepant i.e., if they knew when they did not know, and was higher for the strongest relations. Subjects also showed awareness of the effect of aggregation over occasions and used reasonable strategies to arrive at decisions. Epstein concluded that Far from being inveterate trait believe...
+
+[3] outward orientation accounts for the actorobserver bias. Lack of effortful adjustment. Sometimes, even though we are aware that the persons behavior is constrained by situational factors, we still commit the fundamental attribution error. This is because we do not take into account behavioral and si...
+
+[4] observers believe they know an individuals underlying disposition solely based on their actions. Actor-observer asymmetry, on the other hand, more closely aligns with a self-serving bias. Much like actor-observer asymmetry, correspondence bias is supported by several cognitive and environmental fact...
+
+[5] findings provide neurological depth to support the actor-observer asymmetry, with fundamentally different cognitive and neural processes involved in different types of attribution. Such work highlights how differential attribution is not only a cognitive bias but a biological one, too. Over 100 stud...
+
+[6] develop a balanced approach to interpreting both their successes and setbacks. In attribution, the actorobserver asymmetry is often confused with the concept of self-serving bias the claim that people attribute positive outcomes of their behaviour to dispositional factors, while attributing negative...
+
+[7] When considering the fundamental attribution error, it has been extended to be known as the ultimate attribution error instead, for initially in its discovery it was assumed to be a universal, or a fundamental, phenomenon. It has since been demonstrated that Western cultures are more susceptible to ...
+
+[8] have claimed that the classic studies on the availability heuristic are too vague in that they fail to account for peoples underlying mental processes. Indeed, a study conducted by Wanke et al. demonstrated this scenario can occur in situations used to test the availability heuristic. A second line ...
+
+[9] subjects may favor processing of focal objects, rather than contexts. Others suggest Western individualism is associated with viewing both oneself and others as independent agents, therefore focusing more on individuals rather than contextual details. Another study found that in contrast to American...
+
+[10] has been debate about whether the two terms should be distinguished from each other. Three main differences between these two judgmental processes have been argued: They seem to be elicited under different circumstances, as both correspondent dispositional inferences and situational inferences can b...
+
+
+--- Cluster #3 (ID: 17) ---
+--- Score: 0.299 | Top Terms: hindsight, bias, hindsight bias, outcome, participants ---
+
+[1] assign the likelihood of each particular outcome. Participants frequently assign a higher likelihood of occurrence to whichever outcome they have been told is true. Remaining relatively unmodified, this method is still used in psychological and behavioural experiments investigating aspects of the hi...
+
+[2] outcome of an event tend to overestimate their prior knowledge or others naïve knowledge of the event. As a result, speakersknowing what is being communicatedtend to overestimate the clarity of their message while listenershearing what they want to heartend to overestimate their understanding of amb...
+
+[3] this is retroactive pessimism. Defensive processing involves less hindsight bias, as they are playing ignorant of the event. Retroactive pessimism makes use of hindsight bias after a negative, unwanted outcome. Events in life can be hard to control or predict. It is no surprise that people want to v...
+
+[4] people often believe that they could have predicted or perhaps even known with a high degree of certainty what the outcome of the event would be before it occurred. Hindsight bias may cause distortions of memories of what was known or believed before an event occurred and is a significant source of ...
+
+[5] details of each procedure are different, but all three can result in some form of psychological manipulation and alteration of memory. Stage one is different between the three paradigms, although all involve an event, an event that has taken place misinformation effect, an event that has not taken p...
+
+[6] instead of the outcome of the treatment; however, studies show that cases ending in severe negative outcomes such as death result in a higher level of hindsight bias. For example, in 1996, LaBine proposed a scenario where a psychiatric patient told a therapist that he was contemplating harming anoth...
+
+[7] experiments on adults are too complex for children to understand, let alone measure bias. Some experimental procedures have been created with visual identification to test children about their hindsight bias in a way they can grasp. Methods with visual images start by presenting a blurry image to th...
+
+[8] consequences of hindsight bias is an increase in ones confidence and performance, as long as the bias distortion is reasonable and does not create overconfidence. Another positive consequence is that ones self-assurance of their knowledge and decision-making, even if it ends up being a poor decision...
+
+[9] with having failed to detect the presence of an abnormality that was present in a radiology image. During litigation, a different radiologist who now knows that the image contains an abnormality is asked to judge how likely it would be for a naive radiologist to have detected the abnormality during ...
+
+[10] the ones being scrutinized by the jury. The hindsight bias causes defendants to be judged as capable of preventing the bad outcome. Although much stronger for the defendants, hindsight bias also affects the plaintiffs. In cases that there is an assumption of risk, hindsight bias may contribute to th...
+
+Top Candidate Topics:
+ cluster_id  score  prevalence_%  cohesion  spread  jargon  redundancy  ner_density                                      
+              top_terms  n_representatives
+          0  0.314          2.03     0.670     1.0   0.868       0.016         2.31    automation, bias, automated, automation bias, information                 15
+         21  0.301          2.28     0.628     1.0   0.878       0.015         2.22         attribution, situational, behavior, error, asymmetry                 15
+         17  0.299          2.92     0.605     1.0   0.864       0.012         1.60       hindsight, bias, hindsight bias, outcome, participants                 15
+         20  0.295          4.31     0.582     1.0   0.864       0.013         2.16                   people, effect, average, self, performance                 15
+          5  0.295          3.30     0.590     1.0   0.867       0.012         1.98                  anchoring, anchor, anchors, people, effects                 15
+          4  0.294          2.03     0.598     1.0   0.863       0.025         1.53                 world, just, just world, belief, belief just                 15
+         22  0.287          3.30     0.562     1.0   0.868       0.014         1.65                self, bias, self serving, serving, egocentric                 15
+         18  0.287          2.66     0.559     1.0   0.861       0.010         0.94                         memory, effect, option, choice, bias                 15
+          2  0.283          2.03     0.565     1.0   0.862       0.019         2.02                     halo, effect, halo effect, person, study                 15
+         19  0.279          6.46     0.509     1.0   0.870       0.007         2.25            bias, participants, information, evidence, people                 15
+         13  0.275          4.18     0.544     1.0   0.861       0.011         5.70             loss, effect, aversion, loss aversion, endowment                 15
+         10  0.274          6.97     0.482     1.0   0.866       0.006         1.86                 people, bias, affective, forecasting, affect                 15
+          6  0.272          4.94     0.511     1.0   0.848       0.012         4.18     fallacy, gamblers, gamblers fallacy, people, probability                 15
+          1  0.271          3.80     0.516     1.0   0.868       0.009         3.04                 groupthink, group, groups, decision, members                 15
+         16  0.268          2.79     0.531     1.0   0.875       0.011         4.59            behavioral, theory, economics, economic, decision                 15
+         15  0.261          2.66     0.496     1.0   0.869       0.010         3.14              heuristic, heuristics, people, decision, making                 15
+         14  0.259          2.15     0.484     1.0   0.867       0.012         2.37 frequency, participants, illusion, frequency illusion, names                 15
+          9  0.253          2.28     0.469     1.0   0.859       0.013         3.17                               cost, sunk, time, people, bias                 15
+          7  0.244          3.55     0.434     1.0   0.855       0.009         4.32                   probability, likely, people, fallacy, base                 15
+         11  0.239          3.17     0.415     1.0   0.860       0.009         3.22                    bandwagon, social, herd, people, behavior                 15
+
+============================================================
+CLUSTER 0 DETAILS
+============================================================
+Score: 0.314
+Prevalence: 2.03%
+Cohesion: 0.670
+Spread: 1.000
+Jargon: 0.868
+Redundancy: 0.016
+NER Density: 2.31
+
+Top Terms: automation, bias, automated, automation bias, information, study, errors, decision, complacency, aids
+
+Example Representatives (showing 5):
+------------------------------------------------------------
+
+[1] diagnosis or recommendation, or Implementation automation, where the automated aid performs a specified task. The concept of automation bias is viewed as overlapping with automation-induced complacency, also known more simply as automation complacency. Like automation bias, it is a consequence of th...
+
+[2] a particularly major concern in aviation, medicine, process control, and military command-and-control operations. At first, discussion of automation bias focused largely on aviation. Automated aids have played an increasing role in cockpits, taking a growing role in the control of such flight tasks ...
+
+[3] advice on a screen can impact the likelihood of automation bias, with prominently displayed advice, correct or not, is more likely to be followed; another study, however, seemed to discount the importance of this factor. According to another study, a greater amount of on-screen detail can make users...
+
+[4] by a drop in operator trust, which in turn is succeeded by a slow recovery of trust. The decline in trust after an initial automation failure has been described as the first-failure effect. By the same token, if automated aids prove to be highly reliable over time, the result is likely to be a heigh...
+
+[5] automatic pilot to such mundane matters as the use of spell-checking programs. An operators trust in the system can also lead to different interactions with the system, including system use, misuse, disuse, and abuse. The tendency toward overreliance on automated aids is known as automation misuse. ...

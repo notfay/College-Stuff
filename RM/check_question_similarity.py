@@ -1,20 +1,25 @@
 """
 Script to verify that questions match their intended similarity scores with their needles.
-Uses TF-IDF cosine similarity to measure actual question-needle similarity.
+Uses Sentence Transformer (all-MiniLM-L6-v2) cosine similarity to measure actual question-needle similarity.
 """
 
 import csv
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from sentence_transformers import SentenceTransformer, util
 import numpy as np
 
+# Initialize the sentence transformer model
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
 def calculate_similarity(text1: str, text2: str) -> float:
-    """Calculate cosine similarity between two texts using TF-IDF."""
-    vectorizer = TfidfVectorizer()
+    """Calculate cosine similarity between two texts using Sentence Transformer embeddings."""
     try:
-        vectors = vectorizer.fit_transform([text1, text2])
-        similarity = cosine_similarity(vectors[0], vectors[1])[0][0]
+        # Generate embeddings for both texts
+        embedding1 = model.encode(text1, convert_to_tensor=True)
+        embedding2 = model.encode(text2, convert_to_tensor=True)
+        
+        # Calculate cosine similarity
+        similarity = util.cos_sim(embedding1, embedding2).item()
         return similarity
     except:
         return 0.0
@@ -24,8 +29,8 @@ def check_question_similarities(csv_file: str):
     Read CSV and calculate actual similarity between each question and its needle.
     Compare with the expected question_similarity value.
     """
-    # Read CSV
-    df = pd.read_csv(csv_file)
+    # Read CSV with proper handling of quoted fields
+    df = pd.read_csv(csv_file, quoting=csv.QUOTE_MINIMAL, on_bad_lines='warn')
     
     print("=" * 100)
     print("QUESTION-NEEDLE SIMILARITY ANALYSIS")
@@ -41,14 +46,20 @@ def check_question_similarities(csv_file: str):
         question_text = row['question_text']
         expected_q_sim = row['question_similarity']
         
+        # Skip rows with missing/empty data
+        if pd.isna(needle_text) or pd.isna(question_text) or pd.isna(expected_q_sim):
+            continue
+        if str(needle_text).strip() == "" or str(question_text).strip() == "":
+            continue
+        
         # Calculate actual similarity between question and needle
         actual_q_sim = calculate_similarity(question_text, needle_text)
         
         # Calculate difference
         difference = actual_q_sim - expected_q_sim
         
-        # Determine if it's a good match (within ±0.05 tolerance)
-        status = "✓ GOOD" if abs(difference) <= 0.05 else "✗ OFF"
+        # Determine if it's a good match (within ±0.02 tolerance)
+        status = "✓ GOOD" if abs(difference) <= 0.02 else "✗ OFF"
         
         results.append({
             'row': idx + 1,

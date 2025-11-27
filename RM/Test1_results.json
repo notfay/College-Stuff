@@ -1,0 +1,794 @@
+[
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns.",
+        "latency_seconds": 17.715460538864136,
+        "timestamp": "2025-11-25T17:29:47.839764"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 8.713711023330688,
+        "timestamp": "2025-11-25T17:31:07.793502"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 21.599463939666748,
+        "timestamp": "2025-11-25T17:32:40.879564"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 34.86999034881592,
+        "timestamp": "2025-11-25T17:34:27.039548"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "The document suggests that memory recall is higher for items received via speech than through writing, which could explain why quoting a speech is easier than describing a layout. Additionally, the levels-of-processing effect indicates that different encoding methods have varying effectiveness, and the verbatim effect notes that the \"gist\" of what someone said is remembered better than the exact wording.",
+        "latency_seconds": 17.349475860595703,
+        "timestamp": "2025-11-25T17:35:55.719268"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 16.815115213394165,
+        "timestamp": "2025-11-25T17:37:23.764476"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 14.284206628799438,
+        "timestamp": "2025-11-25T17:38:49.361188"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias, explained by the cognitive miser principle, is the human preference for less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+        "latency_seconds": 3.539515733718872,
+        "timestamp": "2025-11-25T17:40:04.111872"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "The document suggests that memory recall is higher for the last items of a list when the items were received via speech than when they were received through writing. This is known as the modality effect.",
+        "latency_seconds": 37.83867120742798,
+        "timestamp": "2025-11-25T17:41:53.189650"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 14.207542896270752,
+        "timestamp": "2025-11-25T17:43:18.739395"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 16.09696125984192,
+        "timestamp": "2025-11-25T17:44:46.109194"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias explains the use of machines to do the work in order to save sweat, even if it messes up sometimes.",
+        "latency_seconds": 17.85088038444519,
+        "timestamp": "2025-11-25T17:46:15.379391"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "It is easier to quote a speech you heard than to describe a layout you saw because memory recall is higher for items received via speech than through writing.",
+        "latency_seconds": 42.36360788345337,
+        "timestamp": "2025-11-25T17:48:08.929721"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 40.59311008453369,
+        "timestamp": "2025-11-25T17:50:00.901945"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 32.5592565536499,
+        "timestamp": "2025-11-25T17:51:45.141660"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 4.600680112838745,
+        "timestamp": "2025-11-25T17:53:01.099258"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "The document suggests that memory recall is higher for the last items of a list when the items were received via speech than when they were received through writing. This is known as the modality effect.",
+        "latency_seconds": 81.21555042266846,
+        "timestamp": "2025-11-25T17:55:33.778104"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 53.5816707611084,
+        "timestamp": "2025-11-25T17:57:38.531320"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 14.79207158088684,
+        "timestamp": "2025-11-25T17:59:04.602780"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias explains the use of machines to do work to save effort, even if it sometimes causes errors. This bias stems from the human tendency to prefer less effortful automated solutions over more demanding manual analysis, even when accuracy is compromised.",
+        "latency_seconds": 16.148935794830322,
+        "timestamp": "2025-11-25T18:00:32.071230"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "The document does not contain information that directly answers why it is easier to quote a speech than describe a layout after dozing off.",
+        "latency_seconds": 76.60671854019165,
+        "timestamp": "2025-11-25T18:03:00.058886"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 55.7636444568634,
+        "timestamp": "2025-11-25T18:05:07.081911"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 50.03213024139404,
+        "timestamp": "2025-11-25T18:07:08.380716"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 35.93595480918884,
+        "timestamp": "2025-11-25T18:08:55.603243"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "The document does not contain information to answer why it is easier to quote a speech heard than to describe a layout seen after dozing off.",
+        "latency_seconds": 46.35204744338989,
+        "timestamp": "2025-11-25T18:10:53.199736"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 8.463120698928833,
+        "timestamp": "2025-11-25T18:12:12.991389"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 31.886255025863647,
+        "timestamp": "2025-11-25T18:13:55.961748"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 19.814207315444946,
+        "timestamp": "2025-11-25T18:15:27.357153"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "The document suggests that memory recall is higher for the last items of a list when the items were received via speech than when they were received through writing. This is known as the modality effect.",
+        "latency_seconds": 3.6206302642822266,
+        "timestamp": "2025-11-25T18:16:42.353999"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 27.033052682876587,
+        "timestamp": "2025-11-25T18:18:20.484105"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 9.99980092048645,
+        "timestamp": "2025-11-25T18:19:41.877104"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 3.6478874683380127,
+        "timestamp": "2025-11-25T18:20:56.752330"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "It is easier to quote a speech you heard than to describe a layout you saw because memory consolidation during sleep helps learners retain verbal information better than visual patterns.",
+        "latency_seconds": 4.040768384933472,
+        "timestamp": "2025-11-25T18:22:12.027643"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 5.098312139511108,
+        "timestamp": "2025-11-25T18:23:28.454727"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 2.888660430908203,
+        "timestamp": "2025-11-25T18:24:42.443805"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 2.9763362407684326,
+        "timestamp": "2025-11-25T18:25:56.822048"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "It is easier to quote a speech you heard than to describe a layout you saw because memory recall is higher for items received via speech than through writing.",
+        "latency_seconds": 101.7734899520874,
+        "timestamp": "2025-11-25T18:28:49.823537"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 194.03211283683777,
+        "timestamp": "2025-11-25T18:33:15.171852"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 89.10042428970337,
+        "timestamp": "2025-11-25T18:35:55.642644"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Error: Could not retrieve response from model.",
+        "latency_seconds": 6.28696608543396,
+        "timestamp": "2025-11-25T18:37:13.292350"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.2, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.2
+            },
+            "question": {
+                "text": "If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Memory consolidation during sleep helps individuals retain verbal information more effectively than visual patterns.",
+        "latency_seconds": 102.689462184906,
+        "timestamp": "2025-11-25T18:40:07.228107"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 67.22725987434387,
+        "timestamp": "2025-11-25T18:42:25.732775"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.4",
+        "config": {
+            "needle": {
+                "text": "Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "When operators depended on the machine during crises, what was the exact numerical rise in mistakes?",
+                "question_similarity": 0.4
+            }
+        },
+        "response": "19%",
+        "latency_seconds": 44.169617652893066,
+        "timestamp": "2025-11-25T18:44:21.050301"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.8, Q-Sim: 0.2",
+        "config": {
+            "needle": {
+                "text": "Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.8
+            },
+            "question": {
+                "text": "What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?",
+                "question_similarity": 0.2
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 43.18273663520813,
+        "timestamp": "2025-11-25T18:46:15.584009"
+    }
+]
