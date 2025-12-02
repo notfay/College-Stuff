@@ -45,15 +45,15 @@ class STModel(EmbeddingModel):
 
 # --- 3. Define Data ---
 
-# List of (Needle, Question, Target_Needle_Question_Similarity) tuples
-needle = "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task."
+# List of (Needle, Question, Target_Needle_Question_Similarity) tuplesneedle = "# List of (Needle, Question, Target_Needle_Question_Similarity) tuples
+needle = "A study asked people to mark the single feature they first noticed and then measured how that mark changed option choice in later tasks"
 
 pairs_to_test = [
-    # Target 0.8 – Fine-tuned: "self attribution bias" + more varied phrasing to hit 0.78-0.82
-    (needle, "Does self attribution bias lower the mental effort people use when assessing successes?", 0.8),
-    (needle, "What impact does self attribution bias have on the physic effort for evaluating successes?", 0.8),
-    (needle, "How is self attribution bias related to reduced thinking when people assess good outcomes?", 0.8),
+    # Target 0.8 - High overlap (Using needle words + safe words)
+    (needle, "How does a first‑seen detail become the reference in later evaluation?", 0.4),
 ]
+
+
 
 # --- 4. Main Execution Function ---
 

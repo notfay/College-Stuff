@@ -1,0 +1,3170 @@
+[
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer this question.",
+        "latency_seconds": 5.509606122970581,
+        "timestamp": "2025-12-02T10:03:43.056327"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "Yes, a fresh technique for alternative assessment can be established by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 4.560158014297485,
+        "timestamp": "2025-12-02T10:05:02.633087"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, the document mentions that tracking item rate in a system test can show a new way to compare options.",
+        "latency_seconds": 4.44352650642395,
+        "timestamp": "2025-12-02T10:06:22.091385"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, a fresh approach to comparing options is revealed by reporting and measuring item rates in a system test.",
+        "latency_seconds": 9.159335136413574,
+        "timestamp": "2025-12-02T10:07:46.287116"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 3.2398734092712402,
+        "timestamp": "2025-12-02T10:09:04.555894"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 4.411466360092163,
+        "timestamp": "2025-12-02T10:10:23.984287"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.9256398677825928,
+        "timestamp": "2025-12-02T10:11:41.931307"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.6791226863861084,
+        "timestamp": "2025-12-02T10:12:59.661405"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "The curse that activates when humans become yes-men to computers is automation bias.",
+        "latency_seconds": 9.565063238143921,
+        "timestamp": "2025-12-02T10:14:24.278113"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, it leads to a higher rate of errors.",
+        "latency_seconds": 50.6449019908905,
+        "timestamp": "2025-12-02T10:16:29.941205"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it can lead to automation bias, where they favor suggestions from automated systems and ignore contradictory information, even if it is correct. This can result in commission errors (following incorrect automated directives) or omission errors (failing to notice problems the automated system missed).",
+        "latency_seconds": 3.910353422164917,
+        "timestamp": "2025-12-02T10:17:48.867753"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research indicates that individual beliefs about system processes, when formed without personal judgment, are linked to a higher rate of errors.",
+        "latency_seconds": 18.96329355239868,
+        "timestamp": "2025-12-02T10:19:22.849334"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory mentally cheaper.",
+        "latency_seconds": 3.3852338790893555,
+        "timestamp": "2025-12-02T10:20:41.242538"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability, a form of self-attribution bias, results in less required cognitive processing effort for the task.",
+        "latency_seconds": 4.334485054016113,
+        "timestamp": "2025-12-02T10:22:00.622843"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 3.6097218990325928,
+        "timestamp": "2025-12-02T10:23:19.253910"
+    },
+    {
+        "experiment_name": "Pos: 0%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+        "latency_seconds": 2.9893884658813477,
+        "timestamp": "2025-12-02T10:24:37.253891"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer whether the derivation of frequency metrics within a controlled simulation is indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 23.982576847076416,
+        "timestamp": "2025-12-02T10:26:16.259259"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information to answer this question.",
+        "latency_seconds": 4.729177713394165,
+        "timestamp": "2025-12-02T10:27:36.032820"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, tracking unit frequency in a system test can offer a new perspective on comparing options.",
+        "latency_seconds": 7.262930154800415,
+        "timestamp": "2025-12-02T10:28:58.310434"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.1,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, the document states that reporting and measuring item rates in a system test can show a new way to compare options.",
+        "latency_seconds": 6.105356216430664,
+        "timestamp": "2025-12-02T10:30:19.454634"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 13.96213960647583,
+        "timestamp": "2025-12-02T10:31:48.439852"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document states that \"Persons who document negative outcomes in writing make better future choices in similar situations.\"",
+        "latency_seconds": 5.97014594078064,
+        "timestamp": "2025-12-02T10:33:09.425416"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 4.905262231826782,
+        "timestamp": "2025-12-02T10:34:29.347121"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.1,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.2214179039001465,
+        "timestamp": "2025-12-02T10:35:46.616295"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 4.234478235244751,
+        "timestamp": "2025-12-02T10:37:05.885393"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, individual beliefs on the system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 5.981551885604858,
+        "timestamp": "2025-12-02T10:38:26.918476"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias can manifest as commission errors (following automated directives without considering other information) or omission errors (failing to notice automation failures due to low vigilance or overtrust).",
+        "latency_seconds": 2.220261335372925,
+        "timestamp": "2025-12-02T10:39:44.182681"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.1,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research shows that individual beliefs on system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 5.598578453063965,
+        "timestamp": "2025-12-02T10:41:04.824109"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory \"mentally cheaper.\"",
+        "latency_seconds": 3.362377405166626,
+        "timestamp": "2025-12-02T10:42:23.227818"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 2.8217520713806152,
+        "timestamp": "2025-12-02T10:43:41.077570"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 6.307278394699097,
+        "timestamp": "2025-12-02T10:45:02.407349"
+    },
+    {
+        "experiment_name": "Pos: 10%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.1,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 5.375581502914429,
+        "timestamp": "2025-12-02T10:46:22.824062"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer whether the derivation of frequency metrics within a controlled simulation is indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 20.722326517105103,
+        "timestamp": "2025-12-02T10:47:58.564729"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information about establishing a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 5.4015936851501465,
+        "timestamp": "2025-12-02T10:49:18.990605"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, report and measure item rate in a system test to show a new way to compare options.",
+        "latency_seconds": 3.302490711212158,
+        "timestamp": "2025-12-02T10:50:37.335648"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.2,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, a fresh approach to comparing alternatives is revealed by reporting on item rates within system tests.",
+        "latency_seconds": 3.096342086791992,
+        "timestamp": "2025-12-02T10:51:55.479194"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 4.925652742385864,
+        "timestamp": "2025-12-02T10:53:15.457482"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "Yes, documenting negative outcomes in writing is correlated with better future choices in similar situations.",
+        "latency_seconds": 2.456486463546753,
+        "timestamp": "2025-12-02T10:54:32.963509"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.6348440647125244,
+        "timestamp": "2025-12-02T10:55:50.635520"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.2,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 3.138542890548706,
+        "timestamp": "2025-12-02T10:57:08.816668"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "The curse that activates when humans become yes-men to computers is automation bias.",
+        "latency_seconds": 5.627653121948242,
+        "timestamp": "2025-12-02T10:58:29.492838"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, automation bias can lead to errors of commission, where users follow an automated directive without considering other information.",
+        "latency_seconds": 2.3004400730133057,
+        "timestamp": "2025-12-02T10:59:46.836368"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias manifests as commission errors, where users follow automated directives without considering other information, or omission errors, where users fail to notice automation failures due to insufficient monitoring.",
+        "latency_seconds": 2.8619978427886963,
+        "timestamp": "2025-12-02T11:01:04.728532"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.2,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research on human tendency in different situations shows that individual beliefs on the system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 2.3908936977386475,
+        "timestamp": "2025-12-02T11:02:22.184185"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory mentally cheaper.",
+        "latency_seconds": 9.842345476150513,
+        "timestamp": "2025-12-02T11:03:47.062676"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 1.9987294673919678,
+        "timestamp": "2025-12-02T11:05:04.110290"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 12.145253658294678,
+        "timestamp": "2025-12-02T11:06:31.311613"
+    },
+    {
+        "experiment_name": "Pos: 20%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.2,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 4.155689716339111,
+        "timestamp": "2025-12-02T11:07:50.523506"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information about the derivation of frequency metrics within a controlled simulation as indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 3.7939467430114746,
+        "timestamp": "2025-12-02T11:09:09.368287"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "No, the document does not suggest that calculating the frequency of units in a standardized trial can establish a fresh technique for alternative assessment.",
+        "latency_seconds": 2.3293418884277344,
+        "timestamp": "2025-12-02T11:10:26.743275"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "The document does not contain information about tracking unit frequency within a system test as a new way to compare options.",
+        "latency_seconds": 4.390835285186768,
+        "timestamp": "2025-12-02T11:11:46.194750"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, the document states that reporting and measuring item rates in a system test can reveal a new way to compare options.",
+        "latency_seconds": 3.435788869857788,
+        "timestamp": "2025-12-02T11:13:04.666332"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about the systematic logging of defects and its effect on subsequent operational selection.",
+        "latency_seconds": 3.1823813915252686,
+        "timestamp": "2025-12-02T11:14:22.896104"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 2.346161127090454,
+        "timestamp": "2025-12-02T11:15:40.266005"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.513221502304077,
+        "timestamp": "2025-12-02T11:16:57.798069"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.481095552444458,
+        "timestamp": "2025-12-02T11:18:15.293704"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 9.052072763442993,
+        "timestamp": "2025-12-02T11:19:39.378779"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, it can lead to errors of commission, where users follow an automated directive without considering other information. This can also result in users making assessments too hastily.",
+        "latency_seconds": 3.2705249786376953,
+        "timestamp": "2025-12-02T11:20:57.694991"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias manifests as commission errors (following automated directives without considering other information) and omission errors (failing to notice problems the automated system misses).",
+        "latency_seconds": 2.6573996543884277,
+        "timestamp": "2025-12-02T11:22:15.368997"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research on human tendency in different situations shows that individual beliefs on the system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 3.1204962730407715,
+        "timestamp": "2025-12-02T11:23:33.503555"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory \"mentally cheaper.\"",
+        "latency_seconds": 3.0530998706817627,
+        "timestamp": "2025-12-02T11:24:51.575764"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, self-attribution bias, which leads individuals to judge positive outcomes, results in less required cognitive processing effort for the task.",
+        "latency_seconds": 4.227588653564453,
+        "timestamp": "2025-12-02T11:26:10.810678"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for a task.",
+        "latency_seconds": 3.7827510833740234,
+        "timestamp": "2025-12-02T11:27:29.612211"
+    },
+    {
+        "experiment_name": "Pos: 30%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.30000000000000004,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 3.3375260829925537,
+        "timestamp": "2025-12-02T11:28:47.967477"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer whether the derivation of frequency metrics within a controlled simulation is indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 4.327978610992432,
+        "timestamp": "2025-12-02T11:30:07.302092"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information to establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 3.187030553817749,
+        "timestamp": "2025-12-02T11:31:25.507625"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, report and measure item rate in a system test to show a new way to compare options.",
+        "latency_seconds": 6.023881912231445,
+        "timestamp": "2025-12-02T11:32:46.553332"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.4,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, reporting and measuring item rates in a system test can reveal a new way to compare options.",
+        "latency_seconds": 5.284215688705444,
+        "timestamp": "2025-12-02T11:34:06.865187"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 4.3777687549591064,
+        "timestamp": "2025-12-02T11:35:26.258949"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 3.1482112407684326,
+        "timestamp": "2025-12-02T11:36:44.442655"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 3.27095365524292,
+        "timestamp": "2025-12-02T11:38:02.728659"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.4,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 4.938693046569824,
+        "timestamp": "2025-12-02T11:39:22.690858"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 3.8026375770568848,
+        "timestamp": "2025-12-02T11:40:41.508139"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, automation bias can lead to errors of commission (following an automated directive without considering other information) or omission (failing to notice problems because of over-reliance on the system). This can result in users changing a correct decision they made on their own to an incorrect one, or missing critical information.",
+        "latency_seconds": 5.929327964782715,
+        "timestamp": "2025-12-02T11:42:02.460049"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias manifests as commission errors (following automated directives without considering other information) and omission errors (failing to notice problems because of over-reliance on the system).",
+        "latency_seconds": 9.772104263305664,
+        "timestamp": "2025-12-02T11:43:27.267811"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.4,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research on human tendency in different situations shows that individual beliefs on system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 2.563194513320923,
+        "timestamp": "2025-12-02T11:44:44.851389"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory \"mentally cheaper.\"",
+        "latency_seconds": 3.5330398082733154,
+        "timestamp": "2025-12-02T11:46:03.414172"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 2.888490676879883,
+        "timestamp": "2025-12-02T11:47:21.320898"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for a task.",
+        "latency_seconds": 3.1141574382781982,
+        "timestamp": "2025-12-02T11:48:39.467791"
+    },
+    {
+        "experiment_name": "Pos: 40%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.4,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 2.6027989387512207,
+        "timestamp": "2025-12-02T11:49:57.096608"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer whether the derivation of frequency metrics within a controlled simulation is indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 3.702298641204834,
+        "timestamp": "2025-12-02T11:51:15.822858"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "No, the document does not provide information to establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 7.538881540298462,
+        "timestamp": "2025-12-02T11:52:38.398749"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, the document states that reporting and measuring item rate in a system test can show a new way to compare options.",
+        "latency_seconds": 25.065942764282227,
+        "timestamp": "2025-12-02T11:54:18.479005"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.5,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, the document states that reporting and measuring item rates in a system test can reveal a new way to compare options.",
+        "latency_seconds": 102.02692937850952,
+        "timestamp": "2025-12-02T11:57:15.540024"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 14.26131558418274,
+        "timestamp": "2025-12-02T11:58:44.833062"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 54.7295458316803,
+        "timestamp": "2025-12-02T12:00:54.590719"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 83.1931381225586,
+        "timestamp": "2025-12-02T12:03:32.802722"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.5,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 19.171228647232056,
+        "timestamp": "2025-12-02T12:05:07.017216"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "The curse that activates when humans become yes-men to computers is automation bias.",
+        "latency_seconds": 34.65844488143921,
+        "timestamp": "2025-12-02T12:06:56.710082"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, automation bias can lead to errors. This occurs when users follow automated directives without considering other information, or fail to notice problems because they are not properly monitoring the system.",
+        "latency_seconds": 216.98773097991943,
+        "timestamp": "2025-12-02T12:11:48.719538"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias manifests as commission errors (following automated directives without considering other information) and omission errors (failing to notice automation failures due to low vigilance or overtrust).",
+        "latency_seconds": 12.855234861373901,
+        "timestamp": "2025-12-02T12:13:16.625013"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.5,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research on system bias and human tendency in different situations shows that individual beliefs on the system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 5.2121946811676025,
+        "timestamp": "2025-12-02T12:14:36.867918"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory mentally cheaper.",
+        "latency_seconds": 4.948980093002319,
+        "timestamp": "2025-12-02T12:15:56.848340"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, self-attribution bias, which involves judging positive outcomes and attributing them to one's own abilities, results in less required cognitive processing effort for the task.",
+        "latency_seconds": 11.292566537857056,
+        "timestamp": "2025-12-02T12:17:23.164215"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 5.980187177658081,
+        "timestamp": "2025-12-02T12:18:44.181766"
+    },
+    {
+        "experiment_name": "Pos: 50%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.5,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 4.22732400894165,
+        "timestamp": "2025-12-02T12:20:03.450872"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information about the derivation of frequency metrics within a controlled simulation as a novel paradigm for selection criteria.",
+        "latency_seconds": 4.610493183135986,
+        "timestamp": "2025-12-02T12:21:23.084713"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information about establishing a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 5.100810766220093,
+        "timestamp": "2025-12-02T12:22:43.233004"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, tracking unit frequency within a system test can offer a new way to compare options.",
+        "latency_seconds": 8.478781938552856,
+        "timestamp": "2025-12-02T12:24:06.726729"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, a fresh approach to comparing alternatives is revealed by reporting on item rates within system tests.",
+        "latency_seconds": 4.41239333152771,
+        "timestamp": "2025-12-02T12:25:26.176395"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 17.052912712097168,
+        "timestamp": "2025-12-02T12:26:58.247700"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 9.920600414276123,
+        "timestamp": "2025-12-02T12:28:23.215256"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 13.980669736862183,
+        "timestamp": "2025-12-02T12:29:52.240373"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 10.080681324005127,
+        "timestamp": "2025-12-02T12:31:17.362836"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "The curse that activates when humans become yes-men to computers is automation bias.",
+        "latency_seconds": 5.03596568107605,
+        "timestamp": "2025-12-02T12:32:37.417459"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith, their accuracy decreases.",
+        "latency_seconds": 11.071514368057251,
+        "timestamp": "2025-12-02T12:34:03.527585"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias can manifest as commission errors (following automated directives without considering other information) or omission errors (failing to notice automation failures due to overtrust).",
+        "latency_seconds": 3.5109667778015137,
+        "timestamp": "2025-12-02T12:35:22.054292"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research indicates that individual beliefs about system processes, without personal judgment, are linked to a higher rate of errors.",
+        "latency_seconds": 6.978960752487183,
+        "timestamp": "2025-12-02T13:56:21.566216"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory mentally cheaper.",
+        "latency_seconds": 8.784975290298462,
+        "timestamp": "2025-12-02T13:57:45.426518"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 10.798346042633057,
+        "timestamp": "2025-12-02T13:59:11.304108"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 101.0714225769043,
+        "timestamp": "2025-12-02T14:02:07.423458"
+    },
+    {
+        "experiment_name": "Pos: 60%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.6000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 85.20868182182312,
+        "timestamp": "2025-12-02T14:04:47.685377"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information about the derivation of frequency metrics within a controlled simulation as indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 14.753278255462646,
+        "timestamp": "2025-12-02T14:06:17.484553"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information about establishing a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 53.311163902282715,
+        "timestamp": "2025-12-02T14:08:25.869325"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, reporting and measuring item rate in a system test can offer a new way to compare options.",
+        "latency_seconds": 5.5405113697052,
+        "timestamp": "2025-12-02T14:09:46.472724"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, reporting and measuring item rates in a system test can reveal a new way to compare options.",
+        "latency_seconds": 42.38748550415039,
+        "timestamp": "2025-12-02T14:11:43.930071"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 10.239873886108398,
+        "timestamp": "2025-12-02T14:13:09.236851"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 107.8253390789032,
+        "timestamp": "2025-12-02T14:16:12.118187"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 11.833531141281128,
+        "timestamp": "2025-12-02T14:17:39.008353"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 3.8484113216400146,
+        "timestamp": "2025-12-02T14:18:57.907029"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 5.1399383544921875,
+        "timestamp": "2025-12-02T14:20:18.094742"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, accuracy decreases.",
+        "latency_seconds": 3.0532755851745605,
+        "timestamp": "2025-12-02T14:21:36.216337"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias can manifest as commission errors (following automated directives without considering other information) or omission errors (failing to notice problems because of over-reliance on the system).",
+        "latency_seconds": 4.432171106338501,
+        "timestamp": "2025-12-02T14:22:55.697254"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research shows that individual beliefs on system processes, without personal judgment, are linked to a higher rate of errors.",
+        "latency_seconds": 2.3557586669921875,
+        "timestamp": "2025-12-02T14:24:13.106775"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The superiority bias can make a victory mentally cheaper.",
+        "latency_seconds": 4.183793306350708,
+        "timestamp": "2025-12-02T14:25:32.365850"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 2.6455907821655273,
+        "timestamp": "2025-12-02T14:26:50.085149"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for a task.",
+        "latency_seconds": 5.86203670501709,
+        "timestamp": "2025-12-02T14:28:11.023919"
+    },
+    {
+        "experiment_name": "Pos: 70%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.7000000000000001,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 2.4191529750823975,
+        "timestamp": "2025-12-02T14:29:28.503258"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer whether the derivation of frequency metrics within a controlled simulation is indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 2.773099184036255,
+        "timestamp": "2025-12-02T14:30:46.335802"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information about establishing a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 2.577181100845337,
+        "timestamp": "2025-12-02T14:32:03.956774"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, the document mentions that \"Report and measure item rate in a system test to show a new way to compare options\" in the context of the just-world fallacy.",
+        "latency_seconds": 2.4747540950775146,
+        "timestamp": "2025-12-02T14:33:21.478156"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.8,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, the document states that \"Report and measure item rate in a system test to show a new way to compare options\" in the context of just-world beliefs.",
+        "latency_seconds": 2.6671509742736816,
+        "timestamp": "2025-12-02T14:34:39.202042"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 3.390336513519287,
+        "timestamp": "2025-12-02T14:35:57.646278"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 11.378135442733765,
+        "timestamp": "2025-12-02T14:37:24.076729"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, documenting negative outcomes in writing is linked to making better future choices in similar situations.",
+        "latency_seconds": 2.411407232284546,
+        "timestamp": "2025-12-02T14:38:41.545603"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.8,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 24.221131324768066,
+        "timestamp": "2025-12-02T14:40:20.827468"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 15.25571870803833,
+        "timestamp": "2025-12-02T14:41:51.141509"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, accuracy is diminished.",
+        "latency_seconds": 6.679147720336914,
+        "timestamp": "2025-12-02T14:43:12.883395"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it leads to automation bias. This bias can manifest as errors of commission (following incorrect automated directives) or errors of omission (failing to notice problems the automated system missed).",
+        "latency_seconds": 2.5428295135498047,
+        "timestamp": "2025-12-02T14:44:30.494462"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.8,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research shows that individual beliefs on the system process, without personal judgment, are related to a higher rate of errors.",
+        "latency_seconds": 14.833298921585083,
+        "timestamp": "2025-12-02T14:46:00.379759"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory mentally cheaper.",
+        "latency_seconds": 3.430161714553833,
+        "timestamp": "2025-12-02T14:47:18.878262"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability lowers mental demand.",
+        "latency_seconds": 2.325676202774048,
+        "timestamp": "2025-12-02T14:48:36.272935"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for a task.",
+        "latency_seconds": 2.250028371810913,
+        "timestamp": "2025-12-02T14:49:53.574356"
+    },
+    {
+        "experiment_name": "Pos: 80%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.8,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which requires less cognitive processing effort for the task.",
+        "latency_seconds": 2.42744517326355,
+        "timestamp": "2025-12-02T14:51:11.060779"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer whether the derivation of frequency metrics within a controlled simulation is indicative of a novel paradigm for selection criteria.",
+        "latency_seconds": 2.7809205055236816,
+        "timestamp": "2025-12-02T14:52:28.911903"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "The document does not contain information about establishing a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 2.3775899410247803,
+        "timestamp": "2025-12-02T14:53:46.338066"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, reporting and measuring item rate in a system test can offer a new way to compare options.",
+        "latency_seconds": 8.69909381866455,
+        "timestamp": "2025-12-02T14:55:10.101168"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 0.9,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, reporting on item rates in a system test can reveal a fresh approach to comparing alternatives.",
+        "latency_seconds": 3.3791205883026123,
+        "timestamp": "2025-12-02T14:56:28.543199"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "The document does not contain information about whether the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 3.777437925338745,
+        "timestamp": "2025-12-02T14:57:47.394801"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 3.3880417346954346,
+        "timestamp": "2025-12-02T14:59:05.834645"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.3636510372161865,
+        "timestamp": "2025-12-02T15:00:23.252942"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 0.9,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.6559953689575195,
+        "timestamp": "2025-12-02T15:01:40.966981"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "The curse that activates when humans become yes-men to computers is automation bias.",
+        "latency_seconds": 3.5035955905914307,
+        "timestamp": "2025-12-02T15:02:59.517558"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, their accuracy is diminished.",
+        "latency_seconds": 2.959073066711426,
+        "timestamp": "2025-12-02T15:04:17.543270"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it can lead to errors of commission (following an automated directive without considering other information) and errors of omission (failing to notice problems because they are not properly monitoring the system). This is due to automation bias, where users may overtrust the system's abilities or default to using heuristics.",
+        "latency_seconds": 2.697669744491577,
+        "timestamp": "2025-12-02T15:05:35.301201"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 0.9,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research on human tendency in different situations shows that individual beliefs on the system process without personal judgment are related to a higher rate of errors.",
+        "latency_seconds": 2.6239700317382812,
+        "timestamp": "2025-12-02T15:06:52.995861"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The document does not contain information about what makes a victory mentally cheaper.",
+        "latency_seconds": 3.6671173572540283,
+        "timestamp": "2025-12-02T15:08:11.744751"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 2.5497138500213623,
+        "timestamp": "2025-12-02T15:09:29.324607"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 2.717102289199829,
+        "timestamp": "2025-12-02T15:10:47.105892"
+    },
+    {
+        "experiment_name": "Pos: 90%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 0.9,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, which results in less required cognitive processing effort for the task.",
+        "latency_seconds": 3.0638957023620605,
+        "timestamp": "2025-12-02T15:12:05.222203"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.235028",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is the derivation of frequency metrics within a controlled simulation indicative of a novel paradigm for selection criteria?",
+                "question_similarity": 0.235028
+            }
+        },
+        "response": "The document does not contain information to answer this question.",
+        "latency_seconds": 3.877955675125122,
+        "timestamp": "2025-12-02T15:13:24.147378"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 406.966",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Can we establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial?",
+                "question_similarity": 406.966
+            }
+        },
+        "response": "Yes, we can establish a fresh technique for alternative assessment by calculating the frequency of units in a standardized trial.",
+        "latency_seconds": 2.6753578186035156,
+        "timestamp": "2025-12-02T15:14:41.901708"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.623893",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Does tracking unit frequency within a system test offer a new perspective on option comparison?",
+                "question_similarity": 0.623893
+            }
+        },
+        "response": "Yes, reporting and measuring item rate in a system test offers a new way to compare options.",
+        "latency_seconds": 4.50421929359436,
+        "timestamp": "2025-12-02T15:16:01.463104"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 1, H-Sim: 0.24, Q-Sim: 0.799046",
+        "config": {
+            "needle": {
+                "text": "Report and measure item rate in a system test to show a new way to compare options.",
+                "custom_position_percent": 1.0,
+                "needle_id": 1,
+                "haystack_similarity": 0.24
+            },
+            "question": {
+                "text": "Is a fresh approach to comparing alternatives revealed by reporting on item rates within system tests?",
+                "question_similarity": 0.799046
+            }
+        },
+        "response": "Yes, reporting on item rates in a system test can reveal a fresh approach to comparing options.",
+        "latency_seconds": 4.178954362869263,
+        "timestamp": "2025-12-02T15:17:20.697630"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.203188",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Does the systematic logging of defects result in a measurable improvement in subsequent operational selection?",
+                "question_similarity": 0.203188
+            }
+        },
+        "response": "Yes, the systematic logging of defects results in a measurable improvement in subsequent operational selection.",
+        "latency_seconds": 3.6083405017852783,
+        "timestamp": "2025-12-02T15:18:39.366812"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.399101",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is the transcription of adverse events correlated with enhanced decision competence over time?",
+                "question_similarity": 0.399101
+            }
+        },
+        "response": "The document does not contain information about whether the transcription of adverse events is correlated with enhanced decision competence over time.",
+        "latency_seconds": 2.8597559928894043,
+        "timestamp": "2025-12-02T15:19:57.284641"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.593162",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "Is there a link between recording negative results and making superior choices when facing similar situations?",
+                "question_similarity": 0.593162
+            }
+        },
+        "response": "Yes, persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 3.4837565422058105,
+        "timestamp": "2025-12-02T15:21:15.838889"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 2, H-Sim: 0.4, Q-Sim: 0.8028",
+        "config": {
+            "needle": {
+                "text": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+                "custom_position_percent": 1.0,
+                "needle_id": 2,
+                "haystack_similarity": 0.4
+            },
+            "question": {
+                "text": "What occurs for a persons who document negative outcomes in writing when similar situations arise in the future?",
+                "question_similarity": 0.8028
+            }
+        },
+        "response": "Persons who document negative outcomes in writing make better future choices in similar situations.",
+        "latency_seconds": 2.856785297393799,
+        "timestamp": "2025-12-02T15:22:33.758948"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.2164",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What's the curse that activates when humans become yes-men to computers?",
+                "question_similarity": 0.2164
+            }
+        },
+        "response": "Automation bias.",
+        "latency_seconds": 3.7811381816864014,
+        "timestamp": "2025-12-02T15:23:52.617662"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.3921",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to accuracy when users rely solely on protocol faith instead of their own critique?",
+                "question_similarity": 0.3921
+            }
+        },
+        "response": "When users rely solely on protocol faith instead of their own critique, automation bias can lead to errors of commission, where users follow an automated directive without considering other information. This can also result in users making assessments too hastily.",
+        "latency_seconds": 2.8313629627227783,
+        "timestamp": "2025-12-02T15:25:10.508978"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.6088",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What happens to error patterns when people treat software outputs as more reliable than their own judgment?",
+                "question_similarity": 0.6088
+            }
+        },
+        "response": "When people treat software outputs as more reliable than their own judgment, it can lead to automation bias, where they favor suggestions from automated systems and ignore contradictory information, even if it's correct. This can result in errors of commission (following incorrect automated directives) or omission (failing to notice problems the automated system missed).",
+        "latency_seconds": 3.3162379264831543,
+        "timestamp": "2025-12-02T15:26:28.888973"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 3, H-Sim: 0.6, Q-Sim: 0.804",
+        "config": {
+            "needle": {
+                "text": "Research on system bias and human tendency in different situations shown that individual beliefs on the system process without personal judgment is related to a higher rate of errors.",
+                "custom_position_percent": 1.0,
+                "needle_id": 3,
+                "haystack_similarity": 0.6
+            },
+            "question": {
+                "text": "What does research on human tendency in different situations show about individual beliefs on system process?",
+                "question_similarity": 0.804
+            }
+        },
+        "response": "Research indicates that individual beliefs about system processes, without personal judgment, are linked to a higher rate of errors.",
+        "latency_seconds": 4.903519153594971,
+        "timestamp": "2025-12-02T15:27:48.854565"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.1999",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What makes a victory mentally cheaper?",
+                "question_similarity": 0.1999
+            }
+        },
+        "response": "The superiority bias can make a victory mentally cheaper.",
+        "latency_seconds": 3.891615629196167,
+        "timestamp": "2025-12-02T15:29:07.809378"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.4018",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "Does attributing good results to ability lower mental demand?",
+                "question_similarity": 0.4018
+            }
+        },
+        "response": "Yes, attributing good results to ability lowers mental demand.",
+        "latency_seconds": 2.5629091262817383,
+        "timestamp": "2025-12-02T15:30:25.422699"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.6092",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What effect does a favorable self\u2011judgment have on the depth of cognitive processing in a task?",
+                "question_similarity": 0.6092
+            }
+        },
+        "response": "A favorable self-judgment leads to less required cognitive processing effort for the task.",
+        "latency_seconds": 2.8922672271728516,
+        "timestamp": "2025-12-02T15:31:43.372272"
+    },
+    {
+        "experiment_name": "Pos: 100%, N-ID: 4, H-Sim: 0.76, Q-Sim: 0.7942",
+        "config": {
+            "needle": {
+                "text": "Self attribution bias is a behavior that leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+                "custom_position_percent": 1.0,
+                "needle_id": 4,
+                "haystack_similarity": 0.76
+            },
+            "question": {
+                "text": "What impact does self attribution bias have on mental effort for evaluating successes?",
+                "question_similarity": 0.7942
+            }
+        },
+        "response": "Self-attribution bias leads individuals to judge positive outcomes, resulting in less required cognitive processing effort for the task.",
+        "latency_seconds": 3.478710651397705,
+        "timestamp": "2025-12-02T15:33:01.901248"
+    }
+]

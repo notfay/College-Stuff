@@ -12,8 +12,8 @@ client = genai.Client()
 
 
 # === CONFIG ===
-INPUT_PATH = Path("Test1_results.json")
-CSV_OUT = Path("Test1_results.csv")
+INPUT_PATH = Path("New_N1N3.json")
+CSV_OUT = Path("Results.csv")
 XLSX_OUT = Path("Test1_results_parsed.xlsx")
 
 # === Your LLM API call placeholder ===
