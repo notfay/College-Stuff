@@ -1,5 +1,0 @@
-needle_id,haystack_similarity,question_similarity,needle_text,question_text
-1,0.2,0.2,Memory consolidation during sleep helps learners retain verbal information better than visual patterns in most cases.,"If I doze off, why is it easier to quote a speech I heard than to describe a layout I saw?"
-3,0.6,0.2,Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.,"In an emergency drill, by what percentage did the team's scew-up count jump when they just did what the computer said?"
-3,0.6,0.4,Analysis of automated decision systems revealed that operator reliance on algorithmic recommendations increased error rates by 19% in time-critical scenarios.,"When operators depended on the machine during crises, what was the exact numerical rise in mistakes?"
-4,0.8,0.2,"Automation bias is partly explained by the cognitive miser principle, where humans prefer less effortful automated solutions over more demanding manual analysis, even when accuracy suffers.","What explains the use of machines to do the work in order to save sweat, even if it messes up sometimes?"

@@ -3,15 +3,14 @@ import os
 import re
 import json
 import time
-import csv  # <<< Tambahkan import ini
+import csv
 import numpy as np
+import requests
 from datetime import datetime
 from typing import List, Dict, Optional
 from dataclasses import dataclass, asdict
-from enum import Enum  # <<< Pastikan ini ada
+from enum import Enum
 from pathlib import Path
-from google.genai import types
-from google import genai
 from dotenv import load_dotenv
 
 # --- KONFIGURASI & SETUP ---
@@ -80,43 +79,49 @@ class AugmentedNeedleHaystack:
         sentences.insert(needle_pos, needle_config.text)
         return ' '.join(sentences)
 
-class GeminiProvider:
-    def __init__(self, model_name: str = "gemini-1.5-flash"):
+class OpenRouterProvider:
+    def __init__(self, model_name: str = "qwen/qwen3-coder:free"):
         self.model_name = model_name
-        if not os.getenv("GEMINI_API_KEY"):
-            raise ValueError("GEMINI_API_KEY not found in .env file.")
-        self.client = genai.Client()
-        self.generation_config = types.GenerateContentConfig(
-            temperature=0.0,
-            thinking_config=types.ThinkingConfig(thinking_budget=0)
-        )
+        if not os.getenv("OPENROUTER_API_KEY"):
+            raise ValueError("OPENROUTER_API_KEY not found in .env file.")
+        self.api_key = os.getenv("OPENROUTER_API_KEY")
+        self.base_url = "https://openrouter.ai/api/v1/chat/completions"
         
     def evaluate(self, prompt: str) -> str:
         try:
-            response = self.client.models.generate_content(
-                model=self.model_name,
-                contents=prompt,
-                config=self.generation_config
+            response = requests.post(
+                url=self.base_url,
+                headers={
+                    "Authorization": f"Bearer {self.api_key}",
+                    "Content-Type": "application/json",
+                    "HTTP-Referer": "https://github.com",
+                    "X-Title": "Needle-Haystack-Test",
+                },
+                data=json.dumps({
+                    "model": self.model_name,
+                    "temperature": 0.0,
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": prompt
+                        }
+                    ]
+                })
             )
-            return response.text
+            
+            if response.status_code != 200:
+                error_detail = response.text
+                print(f"OpenRouter API Error {response.status_code}: {error_detail}")
+                return f"Error: API returned {response.status_code}"
+            
+            return response.json()["choices"][0]["message"]["content"]
         except Exception as e:
-            print(f"An error occurred while calling the Gemini API: {e}")
+            print(f"An error occurred while calling the OpenRouter API: {e}")
             return "Error: Could not retrieve response from model."
-        
-    def count_tokens(self, text: str) -> int:
-        try:
-            token_count_response = self.client.models.count_tokens(
-                model=self.model_name,
-                contents=text
-            )
-            return token_count_response.total_tokens
-        except Exception as e:
-            print(f"An error occurred while counting tokens: {e}")
-            return -1
 
 # --- RUNNER DIPERBARUI UNTUK MENANGANI QUESTION YANG BERUBAH-UBAH ---
 class ExperimentRunner:
-    def __init__(self, provider: GeminiProvider, haystack_text: str, delay_seconds: int = 0):
+    def __init__(self, provider: OpenRouterProvider, haystack_text: str, delay_seconds: int = 0):
         self.provider = provider
         self.haystack_text = haystack_text
         self.delay_seconds = delay_seconds
@@ -165,7 +170,7 @@ class ExperimentRunner:
                 print(f"\nWaiting for {self.delay_seconds} seconds before the next API call...")
                 time.sleep(self.delay_seconds)
 
-    def save_results(self, output_file: str = "Test1_results.json"):
+    def save_results(self, output_file: str = "Test1N1_results.json"):
         output_path = Path(output_file)
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(self.results, f, indent=4)
@@ -196,8 +201,8 @@ if __name__ == "__main__":
     # ==================================================================
     HAYSTACK_FILE = "CognitiveBias4.txt"
     # Nama file yang berisi needle dan question
-    NEEDLE_QUESTION_FILE = "needles_and_questions.csv" 
-    DELAY_BETWEEN_CALLS_SECONDS = 70
+    NEEDLE_QUESTION_FILE = "needles_and_questions1.csv" 
+    DELAY_BETWEEN_CALLS_SECONDS = 65
     # ==================================================================
     
     print(">>> Generating experiment plan from control panel settings...")
@@ -258,12 +263,14 @@ if __name__ == "__main__":
         print(f"Error: Haystack file '{HAYSTACK_FILE}' not found. Please create it.")
         exit()
         
-    gemini_provider = GeminiProvider(model_name="gemini-2.5-flash")
+    openrouter_provider = OpenRouterProvider(model_name="qwen/qwen3-coder:free")
+            
     # Perbarui Runner, sekarang tidak butuh question di awal
     runner = ExperimentRunner(
-        provider=gemini_provider,
+        provider=openrouter_provider,
         haystack_text=base_haystack,
         delay_seconds=DELAY_BETWEEN_CALLS_SECONDS
     )
+    
     runner.run_all(experiments_to_run)
     runner.save_results()
